@@ -9,4 +9,4 @@ SoftEther WEB端JY流控
 
 ![image](https://github.com/wx1183618058/SoftEther-Netraffic-JY/blob/master/2.png)
 
-![image](https://github.com/wx1183618058/SoftEther-Netraffic-JY/blob/master/3.PNG)
+![image](https://github.com/wx1183618058/SoftEther-Netraffic-JY/blob/master/3.png)
