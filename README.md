@@ -1,12 +1,8 @@
-# SoftEther-Netraffic-JY
-SoftEther WEB端JY流控
+# SoftEther-Netraffic-old
+SoftEther 老版流控集合
 
-###使用方法
-> 先安装lnmp,接着把流控放对应目录，打开流控监控。
+###说明
 
+> 每个目录都有对应的使用方法
 
-![image](https://github.com/wx1183618058/SoftEther-Netraffic-JY/blob/master/1.png)
-
-![image](https://github.com/wx1183618058/SoftEther-Netraffic-JY/blob/master/2.png)
-
-![image](https://github.com/wx1183618058/SoftEther-Netraffic-JY/blob/master/3.png)
+> 老版本永久停止更新
